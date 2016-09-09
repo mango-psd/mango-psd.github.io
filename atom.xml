@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Spid3r&#39;s Blog</title>
+  <subtitle>Respect your curiosity</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-09-09T01:49:50.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Spid3r</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/09/09/hello-world/"/>
+    <id>http://yoursite.com/2016/09/09/hello-world/</id>
+    <published>2016-09-09T00:59:55.000Z</published>
+    <updated>2016-09-09T01:49:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>新博客，新开始。<br>移动端应用层漏洞挖掘（扫描器或是人工）目前局限于一些<a href="http://wolfeye.baidu.com/blog/archive.html" target="_blank" rel="external">历史风险</a>，希望在这里通过自己的实践和探索，记录下一些其它的风险。也会记录下一些：</p>
+<ul>
+<li>对历史CVE的分析</li>
+<li>对Android的Framework层和驱动层漏洞挖掘的思路</li>
+<li>业务安全在技术的基础上进行防御</li>
+</ul>
+</blockquote>
+<ul>
+<li>C语言</li>
+</ul>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line">main()</div><div class="line">&#123;</div><div class="line">    <span class="built_in">printf</span> (<span class="string">"Hello World!\n"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<ul>
+<li>C++语言</li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream.h&gt;</span></span></div><div class="line">main()</div><div class="line">&#123;</div><div class="line">    <span class="keyword">for</span>(;;)</div><div class="line">    &#123;</div><div class="line">        <span class="built_in">cout</span> &lt;&lt; <span class="string">"Hello World! "</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<ul>
+<li>C#语言</li>
+</ul>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span></div><div class="line">&#123;</div><div class="line">  <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Main</span> <span class="params">()</span> </span>&#123;</div><div class="line">     System.Console.Write(<span class="string">"Hello World!"</span>);</div><div class="line">  &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<ul>
+<li>PHP语言</li>
+</ul>
+<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">&lt;?php</div><div class="line">  echo "&lt;html&gt;</div><div class="line">    &lt;head&gt;</div><div class="line">      &lt;title&gt;Hello World Page&lt;/title&gt;</div><div class="line">    &lt;/head&gt;</div><div class="line">    &lt;body&gt;</div><div class="line">      Hello World!</div><div class="line">    &lt;/body&gt;</div><div class="line">  &lt;/html&gt;"</div><div class="line">?&gt;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;新博客，新开始。&lt;br&gt;移动端应用层漏洞挖掘（扫描器或是人工）目前局限于一些&lt;a href=&quot;http://wolfeye.baidu.com/blog/archive.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;历史
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
