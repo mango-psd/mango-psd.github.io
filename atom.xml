@@ -1,55 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Spid3r&#39;s Blog</title>
-  <subtitle>Respect your curiosity</subtitle>
+  <title>芒果&#39;s Blog</title>
+  <subtitle>看世繁华 尝情冷暖</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-09-09T02:41:59.000Z</updated>
+  <updated>2016-10-07T06:06:42.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Spid3r</name>
+    <name>芒果君</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>就让我们陶醉在火锅里</title>
     <link href="http://yoursite.com/2016/09/09/hello-world/"/>
     <id>http://yoursite.com/2016/09/09/hello-world/</id>
     <published>2016-09-09T00:59:55.000Z</published>
-    <updated>2016-09-09T02:41:59.000Z</updated>
+    <updated>2016-10-07T06:06:42.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Printf-hello-world"><a href="#Printf-hello-world" class="headerlink" title="Printf hello world"></a>Printf hello world</h1><p>&nbsp;</p>
-<blockquote>
-<p>新博客，新开始。<br>移动端应用层漏洞挖掘（扫描器或是人工）目前局限于一些<a href="http://wolfeye.baidu.com/blog/archive.html" target="_blank" rel="external">历史风险</a>，希望在这里通过自己的实践和探索，记录下一些其它的风险。也会记录下一些：</p>
-<ul>
-<li>对历史CVE的分析</li>
-<li>对Android的Framework层和驱动层漏洞挖掘的思路</li>
-<li>业务安全在技术的基础上进行完善</li>
-</ul>
-</blockquote>
-<ul>
-<li><p>C语言</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;stdio.h&gt;</span></span></div><div class="line">main()</div><div class="line">&#123;</div><div class="line">    <span class="built_in">printf</span> (<span class="string">"Hello World!\n"</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-</li>
-<li><p>C++语言</p>
-<figure class="highlight c++"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream.h&gt;</span></span></div><div class="line">main()</div><div class="line">&#123;</div><div class="line">    <span class="keyword">for</span>(;;)</div><div class="line">    &#123;</div><div class="line">        <span class="built_in">cout</span> &lt;&lt; <span class="string">"Hello World!"</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-</li>
-<li><p>C#语言</p>
-<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">HelloWorld</span></span></div><div class="line">&#123;</div><div class="line">  <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">Main</span> <span class="params">()</span> </span>&#123;</div><div class="line">     System.Console.Write(<span class="string">"Hello World!"</span>);</div><div class="line">  &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-</li>
-<li><p>PHP语言</p>
-<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">&lt;?php</div><div class="line">  echo "&lt;html&gt;</div><div class="line">    &lt;head&gt;</div><div class="line">      &lt;title&gt;Hello World!&lt;/title&gt;</div><div class="line">    &lt;/head&gt;</div><div class="line">    &lt;body&gt;</div><div class="line">      Hello World!</div><div class="line">    &lt;/body&gt;</div><div class="line">  &lt;/html&gt;"</div><div class="line">?&gt;</div></pre></td></tr></table></figure>
-</li>
-</ul>
+    <content type="html"><![CDATA[<p>七月底的某一天我突然出现在了大重庆，我以为我会沿着这条路一直走到香格里拉从昆明绕回来。然而四千的海拔让我在色达缺氧。我知道我是一滩烂泥，烂泥一样的字，看得懂的你别嫌弃，看不懂的离文盲也不会远了。<br>就是这样的。</p>
+<p>我承认这是我选的一条很不错的线路，但对于我这种旅行菜鸡来说其实特别困难，不管从时间的安排还是海拔来说都是很难克服的问题。但我觉得我是一滩烂泥，命没那么薄死不了就还好。我做线路和准备的时候习惯列出时间表和需要购买的车票预订的住宿，这样方便来说。毕竟吃住行是硬性指标。烂泥表示可以接受一些朋友的旅行线路咨询。</p>
+<p>重庆第一站，飞机在川渝上空的时候，我是真的忍不住拿出手机拍了照片。分割有序的农田，我看着就像是各种化妆粉饼，高楼如口红，原谅我作为一个妹子对于化妆品的信仰。哈哈哈。在几千尺高空我就已经感受到天府之国的美，没有一点防备。<br>当然这不是小编第一次来重庆，来重庆的重中之重肯定是尝美食。而重庆火锅又是重庆美食里的榜首，如果你来过重庆，吃过九宫格，你一定不会怀念北京的铜锅，潮汕的牛肉锅，光是吱吱的红油翻滚就已经挑起舌尖的味蕾。<br>邓记莽子 绝对是重庆老火锅里的老火锅，这天我刚到天空之城青旅入住，认识了几个也是一个人旅行的妹子。于是二话不说在冒着雨坐完索道之后杀到了这里，我三年前也来过一次，那时候没有这么隆重的牌匾，仅有的几个字帖也是七零八落。<br>我一定要说这家的鱿鱼花特别好吃，特别好吃，特别好吃。就算是辣到无法自拔还是想吃，就算是辣到眼里是泪，嘴巴着火还是想吃。辣到醉生梦死。这辈子让人觉得眩晕的除了酒精还有重庆火锅。就配一碗香油碟放上一勺蒜末扑鼻而来的香味勾起致命的食欲。灼热感从嘴唇一路蔓延至肠胃，直到第二天烧到屁股。这种辣到大汗淋漓的滋味，除了重庆本地人可以在生理上接受，我想大多数的游客都是用生命在享用美食。</p>
+<p>好了我推荐完一家火锅店就该推荐这家青旅，如果你也是一个人来到重庆就住这里-天空之城青年旅社。隔三差五就能在这里组一个小分队去吃火锅，妈妈再也不用担心我在重庆一个人吃火锅吃成麻辣烫了。我再推荐他们家的沙发床，物美价廉，客厅的空间大到随便造。另外我最喜欢的还是阳台可以欣赏的到江景。<br>对的，青旅的两个大阳台都可以欣赏到重庆最美的夜景。而且位置就在洪崖洞的第十一层的旁边，刘一手火锅的楼上。</p>
+<p>这座城市的味道。重庆的楼，重庆的坡，重庆的火锅最巴适。<br>皇冠大扶梯，坐一次两块，但重点是你还要花两块再坐回去坐地铁。其实这些本来都是会消失在城市文明建设中的老东西，就是因为极限挑战的拍摄，火了扶梯，火了长江隧道，带动了旅游业的发展。才有幸得以保存，我才有幸得以感受到老重庆的味道。就比如我夜闯十八梯，如今的十八梯已成了废弃区，面临着拆迁改造，老重庆的样貌可寻的地方已经越来越少。<br>我觉得天坑地缝的地貌也挺值得去的，但是我去了川美。差点以为川美在成都而错过，重庆有老川美和新川美两个校区，我大概觉得这两个地方是在城市的两端相距那么远。涂鸦一条街位于老川美的周边一条被涂鸦的街区，据说也是因为涂鸦街的闻名而保护了这条原本计划被拆除的街道。</p>
+<p>新川美的罗中立美术馆，每年的六月是毕业生作品展。</p>
+<p>重庆的甜水没话说，上图为重庆凉糕，下图为成都的凉糕。重庆凉糕偏白色，红糖熬制也比成都爽口。黄色的成都凉糕偏粘稠，不管是凉糕还是红糖水。反正我就是喜欢重庆的凉糕。</p>
+<p>而我的本意是，想开一家火锅店。店名我都想好了好多年，取名叫 胭脂红。头一回和别人说的时候，竟然被问，你丫是想当老鸨啊，这名字跟当年青楼可以一提。那么我开的火锅店就是想叫，胭脂红。  </p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Printf-hello-world&quot;&gt;&lt;a href=&quot;#Printf-hello-world&quot; class=&quot;headerlink&quot; title=&quot;Printf hello world&quot;&gt;&lt;/a&gt;Printf hello world&lt;/h1&gt;&lt;p&gt;&amp;nbsp;
+      &lt;p&gt;七月底的某一天我突然出现在了大重庆，我以为我会沿着这条路一直走到香格里拉从昆明绕回来。然而四千的海拔让我在色达缺氧。我知道我是一滩烂泥，烂泥一样的字，看得懂的你别嫌弃，看不懂的离文盲也不会远了。&lt;br&gt;就是这样的。&lt;/p&gt;
+&lt;p&gt;我承认这是我选的一条很不错的线路，但对于我这
     
     </summary>
     
